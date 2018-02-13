@@ -1,0 +1,28 @@
+±b¸¹:joeliao ±K½X:retair
+
+LINE_Micro_Site
+
+Bot linked to this channel :@stb5972z / retair_joe
+
+App ID:1561704221
+
+App Secret:0a19c890689bc5969138901776da0d84
+
+Message ID:1561704378
+
+Message Secret:c6479c83ab91245384a40357e98491e8
+
+
+±b¸¹:joeliao2 ±K½X:retair
+
+LINE_Micro_Site
+
+Bot linked to this channel :@kqj6324o / joe2
+
+App ID:1562016884
+
+App Secret:af8182df6ba1e30359ed0ba2ae20156e
+
+Message ID:1562017133
+
+Message Secret:13d2d1e477aa38c36e4861932e9f3aa1
